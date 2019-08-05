@@ -12,4 +12,3 @@ if(prompt>0){show('1');
 // }else if(prompt==0){show('0');
 // }else {show('1')}
 
-//added text message
